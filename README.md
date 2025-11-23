@@ -1,4 +1,8 @@
 <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iantar" alt="iantar's 42 stats" /></a> -->
+## 💫 About Me
+
+### Hi! I'm **Ismail Antar**
+A student at **1337 Coding School**, passionate about problem-solving, building cool stuff, and leveling up every day. I love exploring software engineering and anything that challenges my brain.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-antar-1758ba259) 
