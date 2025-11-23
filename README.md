@@ -19,8 +19,6 @@ A student at **1337 Coding School**, passionate about problem-solving, building 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iantar1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iantar1&limit=5&theme=dark&combine_all_yearly_contributions=true)
