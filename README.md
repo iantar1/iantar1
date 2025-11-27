@@ -16,8 +16,3 @@ A student at **1337 Coding School**, passionate about problem-solving, building 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iantar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![minishell](https://img.shields.io/badge/-minishell-blue?style=for-the-badge&logo=github)](https://github.com/iantar1/minishell)
-[![Philosophers](https://img.shields.io/badge/-Philosophers-blue?style=for-the-badge&logo=github)](https://github.com/iantar1/Philosophers)  
-[![Cub3D](https://img.shields.io/badge/-Cub3D-blue?style=for-the-badge&logo=github)](https://github.com/iantar1/Cub3D)  
-[![CPP-Modules](https://img.shields.io/badge/-CPP--Modules-blue?style=for-the-badge&logo=github)](https://github.com/iantar1/CPP-Modules)  
-[![Net_Practice](https://img.shields.io/badge/-Net_Practice-blue?style=for-the-badge&logo=github)](https://github.com/iantar1/Net_Practice) 
