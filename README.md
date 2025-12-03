@@ -1,5 +1,6 @@
 <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iantar" alt="iantar's 42 stats" /></a> -->
-## 💫 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1000&pause=2500&color=FFFFFF&center=false&width=435&lines=Welcome+to+my+GitHub+Profile+%E2%98%80%EF%B8%8F)](https://git.io/typing-svg)
+## 💫 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1000&pause=2500&color=FFFFFF&center=false&width=435&lines=Welcome+to+my+GitHub+Profile+%E2%98%80%EF%B8%8F)](https://git.io/typing-svg)
 
 
 ### Hi! I'm **Ismail Antar**
